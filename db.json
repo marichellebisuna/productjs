@@ -1,9 +1,9 @@
 {
 "products":[
 {
-sys:{
-        "id":1
-        },
+
+        "id":1,
+        
         "fields":{
             "name": "Modern Bed - Linen Weave",  
             "slug":"modern-bed-linen-weave",
